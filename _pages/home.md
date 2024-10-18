@@ -59,7 +59,7 @@ We are a new, growing research group residing in the [Mechanical and Aerospace E
 * Design, fabrication, and characterization of electronic and photonic devices based on novel material systems, including low dimensional materials, phase change materials, superlattice structures, with improved capabilities
 * Understanding the energy transfer mechanism in newly emerging material platforms such as layered van der Waals materials via optical spectroscopic and microscopic techniques
 
-<!-- end of the list -->
+<!-- end of the list --></span>
 
-Please see [Research](research) for more details. 
-</span>
+<span style="color:black;font-weight:420;font-size:17px">Please see [Research](research) for more details. </span>
+
