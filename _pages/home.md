@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<span style="color:black;font-weight:420;font-size:17px">The Ling lab aims at exploring the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. **We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!** Please see [Opportunities](vacancies) for more information.</span>
+The Ling lab aims at exploring the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. **We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!** Please see [Opportunities](vacancies) for more information.
 <!--**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
 More details to follow.-->
 
@@ -54,12 +54,11 @@ More details to follow.-->
   </a>
 </div>
 
-<span style="color:black;font-weight:420;font-size:17px">
 We are a new, growing research group residing in the [Mechanical and Aerospace Engineering Department](https://mae.ucf.edu/) at UCF. There are two major research thrusts in our lab:
 * Design, fabrication, and characterization of electronic and photonic devices based on novel material systems, including low dimensional materials, phase change materials, superlattice structures, with improved capabilities
 * Understanding the energy transfer mechanism in newly emerging material platforms such as layered van der Waals materials via optical spectroscopic and microscopic techniques
-</span>
+
 <!-- end of the list -->
 
-<span style="color:black;font-weight:420;font-size:17px">Please see [Research](research) for more details. </span>
+Please see [Research](research) for more details. 
 
