@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**L**ight-**M**aterials **I**nteractions for **S**emiconducting Applications\
-The Ling lab explores the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology.
+The Ling lab explores the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. We are a new, growing group and actively expanding. We are currently looking for PhD, master, and undergraduate students to join our team! Please see [Opportunities](opportunities) for more information.
 <!--**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
 More details to follow.-->
 
