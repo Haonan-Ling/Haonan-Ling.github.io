@@ -55,5 +55,4 @@ More details to follow.-->
 </div>
 
 
-We are a new, growing research group residing in the [Mechanical and Aerospace Engineering Department](https://mae.ucf.edu/) at UCF. There are two major research thrusts in our lab:\
-- 
+We are a new, growing research group residing in the [Mechanical and Aerospace Engineering Department](https://mae.ucf.edu/) at UCF. There are two major research thrusts in our lab:
