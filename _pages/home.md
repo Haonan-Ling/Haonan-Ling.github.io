@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-<span style="color:black;font-weight:450;font-size:15px">The Ling lab aims at exploring the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. **We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!** Please see [Opportunities](vacancies) for more information.</span>
+<span style="color:black;font-weight:520;font-size:17px">The Ling lab aims at exploring the light-matter interactions in nanoscale electronic and photonic devices and newly emerging materials for further advancing the semiconductor technology. **We are actively expanding and are currently looking for PhD, Master, and undergraduate students to join our team!** Please see [Opportunities](vacancies) for more information.</span>
 <!--**News: Our group will move to the University of Munich (LMU)!** During the next two years, we will build up a "Lehrstuhl" (chair) at LMU and we will slowly move our instruments to Munich. We will be looking for PhD students, sub-group leaders, postdocs, engineering/technical stuff, and an administrative assistant. Please contact me if you are interested.
 More details to follow.-->
 
